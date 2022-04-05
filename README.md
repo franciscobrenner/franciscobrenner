@@ -5,6 +5,7 @@ hardworking, and committed to becoming a dependable and valuable team member.
 - 🌱 I’m currently learning Javascript and leaning towards Vue.js.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscobrenner)](https://github.com/anuraghazra/github-readme-stats)
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franciscobrenner&layout=compact&langs_count=8&hide_border=true)
 
 <!---
 franciscobrenner/franciscobrenner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
