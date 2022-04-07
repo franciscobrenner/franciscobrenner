@@ -10,7 +10,7 @@ dependable and valuable team member.
 - 🌱 I’m currently a student in Rocketseat's Explorer program.
 
 
-## 📌 Conecte comigo
+## 📌 Conect with me
 
 <div>
   
@@ -23,7 +23,9 @@ dependable and valuable team member.
   
 </div>
 
-## 💻 Principais linguagens e ferramentas
+<br />
+
+## 💻 Languages and frameworks
 
 <div style="display: inline_block"><br>
   
