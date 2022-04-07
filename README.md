@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @franciscobrenner, a motivated and enthusiastic College Student. Seeking to use
-my knowledge and my Communication Skills to be an effective addition to any team. Dedicated,
-hardworking, and committed to becoming a dependable and valuable team member. 
+- 👋 Hi, I’m @franciscobrenner, a motivated and enthusiastic College Student.
+Seeking to use my knowledge and my Communication Skills to be an effective
+addition to any team. Dedicated, hardworking, and committed to becoming a
+dependable and valuable team member. 
+
 - 👀 I’m interested in becoming a Fullstack developer
+
 - 🌱 I’m currently a student in Rocketseat's Explorer program.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscobrenner&show_icons=true&theme=dracula)
