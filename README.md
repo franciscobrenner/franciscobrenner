@@ -7,6 +7,7 @@ dependable and valuable team member.
 
 - 🌱 I’m currently a student in Rocketseat's Explorer program.
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscobrenner&show_icons=true&theme=dracula)
 <!---![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franciscobrenner&layout=compact&langs_count=8&hide_border=true)--->
 
