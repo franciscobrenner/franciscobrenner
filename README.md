@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @franciscobrenner, a motivated and enthusiastic College Student.
+<h1>👋 Hi, I’m @franciscobrenner</>
+  
+  A motivated and enthusiastic College Student.
 Seeking to use my knowledge and my Communication Skills to be an effective
 addition to any team. Dedicated, hardworking, and committed to becoming a
 dependable and valuable team member. 
