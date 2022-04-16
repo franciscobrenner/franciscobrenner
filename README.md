@@ -42,12 +42,10 @@ dependable and valuable team member.
 
 ##
 
-<!--<div>
   
   <a href="https://github.com/franciscobrenner">
   <img width="100%" height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobrenner&layout=compact&langs_count=9&theme=dracula"/>
     
-</div>-->
   
 </a>
 
