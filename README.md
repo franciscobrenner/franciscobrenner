@@ -43,14 +43,15 @@ dependable and valuable team member.
 ##
 
   
-  <a href="https://github.com/franciscobrenner">
-  <img width="100%" height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobrenner&layout=compact&langs_count=9&theme=dracula"/>
+  
     
   
 </a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscobrenner&show_icons=true&theme=dracula)
+<a href="https://github.com/franciscobrenner">
+  <img width="100%" height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobrenner&layout=compact&langs_count=9&theme=dracula"/>
 <!--![Snake animation](https://github.com/franciscobrenner/franciscobrenner/blob/output/github-contribution-grid-snake.svg)-->
 <!---![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franciscobrenner&layout=compact&langs_count=8&hide_border=true)--->
 
