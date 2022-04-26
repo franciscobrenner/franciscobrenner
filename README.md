@@ -10,22 +10,7 @@ dependable and valuable team member.
 - 🌱 I’m a student in Rocketseat's Explorer program, focused on Reactjs and Nodejs.
 
 
-## 📌 Conect with me
-
-<div>
-  
- <a href="https://www.instagram.com/franciscobrenner/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/francisco-brenner-44a507b2/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-  
-</div>
-
-<br />
-
-## 💻 Languages and frameworks
+## 💻 Skills
 
 <div style="display: inline_block"><br>
   
@@ -36,9 +21,23 @@ dependable and valuable team member.
   <img align="center" alt="Francisco-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Francisco-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
 
+</div>
 
+
+## 📌 Conect with me
+
+<div>
+  
+ <a href="https://www.linkedin.com/in/francisco-brenner-44a507b2/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  <a href="https://www.instagram.com/franciscobrenner/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
   
 </div>
+
+<br />
 
 ##
 
