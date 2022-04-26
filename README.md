@@ -17,7 +17,6 @@ dependable and valuable team member.
   <img align="center" alt="Francisco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Francisco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!--<img align="center" alt="Francisco-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">-->
   <img align="center" alt="Francisco-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Francisco-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
     <img align="center" alt="Francisco-afterEffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" >
@@ -49,8 +48,8 @@ dependable and valuable team member.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscobrenner&show_icons=true&theme=dracula)
-<a height="100em" href="https://github.com/franciscobrenner">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobrenner&layout=compact&langs_count=9&theme=dracula"/>
+<a href="https://github.com/franciscobrenner">
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobrenner&layout=compact&langs_count=9&theme=dracula"/>
 <!--![Snake animation](https://github.com/franciscobrenner/franciscobrenner/blob/output/github-contribution-grid-snake.svg)-->
 <!---![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franciscobrenner&layout=compact&langs_count=8&hide_border=true)--->
 
