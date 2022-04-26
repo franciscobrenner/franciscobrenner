@@ -23,7 +23,7 @@ dependable and valuable team member.
     <img align="center" alt="Francisco-afterEffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" >
   <img align="center" alt="Francisco-premierePro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" >
   <img align="center" alt="Francisco-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" >
-
+  <img align="center" alt="Francisco-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" >
 
 </div>
 
