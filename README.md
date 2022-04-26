@@ -7,7 +7,7 @@ dependable and valuable team member.
 
 - 👀 I’m interested in becoming a Fullstack developer, currently learning HTML, CSS and Javascript.
 
-- 🌱 I’m a student in Rocketseat's Explorer program, focused on Reactjs and Nodejs.
+- 🚀 I’m a student in Rocketseat's Explorer program, focused on Reactjs and Nodejs.
 
 
 ## 💻 Skills
