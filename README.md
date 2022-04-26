@@ -50,6 +50,7 @@ dependable and valuable team member.
   </a>
 </div>
 ![Snake animation](https://github.com/franciscobrenner/franciscobrenner/blob/output/github-contribution-grid-snake.svg)
+
 <!---![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=franciscobrenner&layout=compact&langs_count=8&hide_border=true)--->
 
 <!---
