@@ -29,10 +29,10 @@ dependable and valuable team member.
 <div>
   
  <a href="https://www.linkedin.com/in/francisco-brenner-44a507b2/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Abhishek's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   <a href="https://www.instagram.com/franciscobrenner/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="Abhishek's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
   
 </div>
