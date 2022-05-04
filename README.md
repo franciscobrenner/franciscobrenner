@@ -6,7 +6,7 @@ I studied design for 5 years, but I decided to switch to the development after m
 
 Motivated and enthusiastic Student. Seeking to use my knowledge of Marketing and my Communication Skills to be an effective addition to any team. Dedicated, hardworking, and committed to becoming a dependable and valuable team member.
 
-- 👀 I’m interested in becoming a Fullstack developer, currently learning HTML, CSS and Javascript.
+- 👀 I’m on my way to become a Fullstack developer, currently learning HTML, CSS and Javascript.
 
 - 🚀 I’m a student in Rocketseat's Explorer program, focused on Reactjs and Nodejs.
 
