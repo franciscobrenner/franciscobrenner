@@ -2,7 +2,7 @@
   
   My name is Francisco Brenner, I am 26 years old and I am a student of the Explorer developer course at Rocketseat. Currently I don't work as a developer, but I'm studying everyday in order to enter the job market as soon as possible.
 
-I studied design for 5 years, but I decided to switch to the development after many courses in the area and the desire to solve problems, which design did not allowed me to. I worked for 5 years as a videomaker and motion designer, where I also had contact with UX/UI, art creation for social media and image manipulation.
+I studied design for 5 years, but decided to switch to development after many courses in the area and the desire to solve problems, which design did not allowed me to. I worked for 5 years as a videomaker and motion designer, where I also had contact with UX/UI, art creation for social media and image manipulation.
 
 Motivated and enthusiastic Student. Seeking to use my knowledge of Marketing and my Communication Skills to be an effective addition to any team. Dedicated, hardworking, and committed to becoming a dependable and valuable team member.
 
