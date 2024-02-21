@@ -2,13 +2,9 @@
   
   My name is Francisco Brenner, I am 26 years old and I am a student of the Explorer developer course at Rocketseat. Currently I don't work as a developer, but I'm studying everyday in order to enter the job market as soon as possible.
 
-I studied design for 5 years, but decided to switch to development after many courses in the area and the desire to solve problems, which design did not allowed me to. I worked for 5 years as a videomaker and motion designer, where I also had contact with UX/UI, art creation for social media and image manipulation.
-
-Motivated and enthusiastic Student. Seeking to use my knowledge of Marketing and my Communication Skills to be an effective addition to any team. Dedicated, hardworking, and committed to becoming a dependable and valuable team member.
+assionate about the intersection of design and technology, I am a 28-year-old Internet Systems student at Estácio, specializing in frontend development with an expected graduation later this year. My professional journey began with a five-year immersion in design, during which I worked as a videomaker and motion designer, gaining exposure to UX/UI, digital art, and 3D animation. Realizing my desire to solve complex problems, I made a deliberate transition into frontend development, eager to create meaningful solutions in the dynamic tech landscape. With a unique blend of design acumen, problem-solving skills, and creative thinking.
 
 - 👀 I’m on my way to become a Fullstack developer, currently learning HTML, CSS and Javascript.
-
-- 🚀 I’m a student in Rocketseat's Explorer program, focused on Reactjs and Nodejs.
 
 
 ## 💻 Skills
