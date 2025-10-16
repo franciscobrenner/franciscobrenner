@@ -1,9 +1,12 @@
 <h1>👋 Hi, I’m Francisco Brenner</h1>
 
-Passionate about the intersection of design and technology, I am a 28-year-old Internet Systems student at Estácio, specializing in frontend development with an expected graduation later this year. My professional journey began with a five-year immersion in design, during which I worked as a videomaker and motion designer, gaining exposure to UX/UI, digital art, and 3D animation. Realizing my desire to solve complex problems, I made a deliberate transition into frontend development, eager to create meaningful solutions in the dynamic tech landscape. With a unique blend of design acumen, problem-solving skills, and creative thinking.
-
-- 👀 I’m on my way to become a Fullstack developer, currently learning HTML, CSS and Javascript.
-
+ Web Developer with a degree in Internet Systems and a professional background in 3D design and digital
+ media. After years of experience creating digital solutions in collaborative environments, I have transitioned
+ my career focus to software development. Skilled in building responsive interfaces, interactive applications,
+ and managing projects under Agile methodologies. My background working with teams and clients
+ strengthened my communication, adaptability, and problem-solving skills, which I now apply to
+ programming challenges. Combining creativity and technical knowledge, I aim to contribute to innovative
+ and efficient software solutions.
 
 ## 💻 Skills
 
