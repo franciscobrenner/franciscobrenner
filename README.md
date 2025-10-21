@@ -43,7 +43,7 @@
 <div>
   <a href="https://github.com/franciscobrenner">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=franciscobrenner&show_icons=true&theme=dracula"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobrenner&layout=compact&langs_count=9&theme=dracula"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscobrenner&layout=compact&theme=dracula"/>
   </a>
 </div>
 <!--![Snake animation](https://github.com/franciscobrenner/franciscobrenner/blob/output/github-contribution-grid-snake.svg)-->
